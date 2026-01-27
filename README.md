@@ -93,7 +93,7 @@ My core strength lies in **bridging AI-driven problem solving with user-centered
 
 - 📧 Email: **aliemesumrizvi@gmail.com**
 - 📞 Phone: **+92 327 156 2557**
-- 🔗 LinkedIn: *([add your LinkedIn URL](https://www.linkedin.com/in/ali-mesum-683077230/))*
+- 🔗 LinkedIn: *([LinkedIn URL](https://www.linkedin.com/in/ali-mesum-683077230/))*
 
 ---
 
