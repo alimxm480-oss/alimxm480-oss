@@ -2,12 +2,9 @@
 
 🎓 **BS Artificial Intelligence**  
 📍 Pakistan  
-🤖 **AI Engineer | Mobile App Developer | UI/UX & Creative Technologist**
+🤖 **AI Engineer | Full-Stack AI Developer | Product Designer | UI/UX & Creative Technologist**
 
-I am a **BS Artificial Intelligence graduate** with strong foundations in **Machine Learning, Deep Learning, and Computer Vision**, combined with **5+ years of professional experience in UI/UX design, graphic design, and video editing**.
-
-My core strength lies in **bridging AI-driven problem solving with user-centered design**, allowing me to build **complete, real-world digital products**—from intelligent systems to polished mobile applications.
-
+Full-Stack AI Developer & Product Designer BS Artificial Intelligence graduate specializing in the end-to-end development of intelligent systems. Proficient in architecting Machine Learning pipelines (ML/DL, Computer Vision) and integrating them into production-ready web and mobile applications. Leveraging 5+ years of professional UI/UX and design experience to create AI-driven products that are not only technically robust but also intuitively designed for the end-user. Expert at bridging the gap between complex backend algorithms and polished, user-centered interfaces.
 ---
 
 ## 🚀 Featured Projects
