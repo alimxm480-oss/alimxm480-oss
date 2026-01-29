@@ -47,7 +47,7 @@ My core strength lies in **bridging AI-driven problem solving with user-centered
 - Designed a high-performance Glassmorphic UI with interactive "click-to-seek" audio synchronization, improving review efficiency by 40%.
 - Implemented Speaker Diarization and multi-language support (including Hinglish), solving critical accessibility gaps for diverse users.
 
-🔗 **Repository:** *(add link if public)*
+🔗 **Repository:** *([Project Link](https://github.com/alimxm480-oss/TAPP_Transcription))*
 
 ---
 
