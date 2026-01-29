@@ -23,16 +23,16 @@
 
 ---
 
-### 🚦 Traffic Sign Detection & Recognition System
-**YOLO · RNN · Computer Vision**
+### 🚦 👁️ Computer Vision & Deep Learning Laboratory
+**Python · TensorFlow · OpenCV · CNN · Image Processing**
 
-- Developed a deep learning system for real-time traffic sign detection and classification
-- Used **YOLO** for object detection and **RNN** for sequential recognition
-- Trained on labeled road-sign datasets for real-world conditions
-- Achieved high accuracy across varying lighting and backgrounds
-- Designed to support autonomous driving and driver-assistance systems
+- Intelligent Classification: Engineered a Custom CNN Pipeline for biological health assessment, achieving 90.2% test accuracy through advanced data augmentation.
+- Deep Architectures: Developed high-speed ANN-based recognition systems optimized for low-latency inference with 97.3% accuracy.
+- Real-time HCI: Implemented a human-computer interaction (HCI) module using HSV skin-masking and contour tracking, delivering stable 30+ FPS on standard CPUs.
+- Vision Engineering: Mastered multi-scale image processing using Gaussian/Laplacian Pyramids, Canny edge detection, and morphological transformations.
+- Dynamic Video Processing: Built real-time frame manipulation tools for ROI highlighting, AR overlays, and automated video annotation.
 
-🔗 **Repository:** *(add link if public)*
+🔗 **Repository:** *([LINK<<](https://github.com/alimxm480-oss/Computer-Vision/tree/main))*
 
 ---
 
