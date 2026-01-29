@@ -39,14 +39,13 @@ My core strength lies in **bridging AI-driven problem solving with user-centered
 
 ---
 
-### 🗣 Urdu Speech-to-Text Captioning System
-**NLP · Speech Recognition · Accessibility AI**
+### 🎙️ TAPP - Intelligent Transcription Studio
+**Generative AI · Full-Stack Development · Product Design**
 
-- Built an AI-powered system to convert **spoken Urdu audio into accurate text captions**
-- Created and refined a **custom Urdu speech dataset** to improve phonetic accuracy
-- Applied NLP techniques for punctuation, grammar, and contextual understanding
-- Designed for **real-time captioning** in educational and accessibility use cases
-- Achieved higher accuracy than standard Urdu transcription tools
+- Architected a modern full-stack platform using Flutter Web and FastAPI to transform unstructured audio into actionable insights.
+- Engineered a hybrid AI pipeline combining OpenAI's Whisper for high-fidelity transcription and Google Gemini for reasoning and summarization.
+- Designed a high-performance Glassmorphic UI with interactive "click-to-seek" audio synchronization, improving review efficiency by 40%.
+- Implemented Speaker Diarization and multi-language support (including Hinglish), solving critical accessibility gaps for diverse users.
 
 🔗 **Repository:** *(add link if public)*
 
